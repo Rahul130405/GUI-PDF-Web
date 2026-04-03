@@ -37,17 +37,6 @@
 
 ---
 
-## 📸 Visual Showcase
-
-| Upload Interface | Chat Experience |
-|---|---|
-| ![Upload UI](./assets/upload-ui.png) | ![Chat UI](./assets/chat-ui.png) |
-| *Clean drag-and-drop zone with progress indicators.* | *Threaded AI conversation with context-aware citations.* |
-
-> **Tip:** Record a 30-second GIF of the app in action and place it here!
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Prerequisites
@@ -111,4 +100,5 @@ GROQ_API_KEY=your_api_key_here
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
