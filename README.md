@@ -93,7 +93,7 @@ GROQ_API_KEY=your_api_key_here
 ## 👨‍💻 Author
 **Rahul Raj Jaiswal**
 - GitHub: [@Rahul130405](https://github.com/Rahul130405)
-- LinkedIn: [Your Profile Link]
+- LinkedIn: [Rahul Raj Jaiswal](https://www.linkedin.com/in/rahulrajjaiswal/)
 - Portfolio: [Your Portfolio Link]
 
 ---
